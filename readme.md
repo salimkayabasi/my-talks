@@ -17,8 +17,8 @@ For example if you click `#presentation` or `#video` icon you will reach related
 * ![](icons/link.png?raw=true) #link #website
 
 ## 2016
-* ![](icons/talk.png?raw=true) [`24 Sept'16 Istanbul`](http://www.meetup.com/GDGIstanbul/events/233372419/) Be Progressive
 * ![](icons/lab.png?raw=true) [`28 Sept'16 Istanbul`](https://events.withgoogle.com/google-progressive-web-apps-summit-istanbul/) ![](icons/wifi_off.png?raw=true) Offline Web Pages with Service Worker
+* ![](icons/talk.png?raw=true) [`24 Sept'16 Istanbul`](http://www.meetup.com/GDGIstanbul/events/233372419/) Be Progressive
 
 ## 2015
 * ![](icons/lab.png?raw=true) Code-lab about Service Worker - Google Developer Summit Istanbul (Dec’15 Turkey)
