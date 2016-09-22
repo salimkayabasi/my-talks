@@ -10,10 +10,11 @@ You can classify easily my talks under these categories and reach content if ava
 For example if you click `#presentation` or `#video` icon you will reach related content
 
 * ![](icons/talk.png?raw=true) #talks #presentation
-* ![](icons/lab.png?raw=true) #code-labs
-* ![](icons/supervisor.png?raw=true) #mentor #wingman #judge
+* ![](icons/lab.png?raw=true) #code-labs #hackathon
+* ![](icons/supervisor.png?raw=true) #mentor #wingman #judge #community
 * ![](icons/international.png?raw=true) #international #english
 * ![](icons/video.png?raw=true) #video
+* ![](icons/link.png?raw=true) #link #website
 
 ## 2016
 * ![](icons/talk.png?raw=true) [`24 Sept'16 Istanbul`](http://www.meetup.com/GDGIstanbul/events/233372419/) Be Progressive
