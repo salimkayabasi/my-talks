@@ -5,7 +5,8 @@
 Here is the basic list for my public speakings, you can follow my all talks just by following this repository
 
 ## 2016
-
+* [`24 Sept'16 Istanbul`](http://www.meetup.com/GDGIstanbul/events/233372419/) Be Progressive
+* [`28 Sept'16 Istanbul`](https://events.withgoogle.com/google-progressive-web-apps-summit-istanbul/) ![ic_signal_wifi_off_black_48px](icons/ic_signal_wifi_off_black_48px.svg?raw=true "ic_signal_wifi_off_black_48px") Offline Web Pages - Code Lab
 
 ## 2015
 * Code-lab about Service Worker - Google Developer Summit Istanbul (Dec’15 Turkey)
