@@ -15,13 +15,19 @@ For example if you click `#presentation` or `#video` icon you will reach related
 * ![](icons/international.png?raw=true) #international #english
 * ![](icons/video.png?raw=true) #video
 * ![](icons/link.png?raw=true) #link #website
+* ![](icons/date.png?raw=true) #date #when
 
 ## 2016
-* ![](icons/lab.png?raw=true) [`28 Sept'16 Istanbul`](https://events.withgoogle.com/google-progressive-web-apps-summit-istanbul/) ![](icons/wifi_off.png?raw=true) Offline Web Pages with Service Worker
-* ![](icons/talk.png?raw=true) [`24 Sept'16 Istanbul`](http://www.meetup.com/GDGIstanbul/events/233372419/) Be Progressive
+* [![](icons/lab.png?raw=true)](http://bit.ly/offline-worker) 
+**Offline Web Pages with Service Worker** - [Google Progressive Web Event Istanbul](https://events.withgoogle.com/google-progressive-web-apps-summit-istanbul/)
+![](icons/date.png?raw=true) 28 Sept'16 Istanbul
+* [![](icons/talk.png?raw=true)](http://bit.ly/be-progressive)
+**Be Progressive** - [GDGIstanbul Sept Meetup](http://www.meetup.com/GDGIstanbul/events/233372419/) ![](icons/date.png?raw=true) 24 Sept'16 Istanbul
 
 ## 2015
-* ![](icons/lab.png?raw=true) Code-lab about Service Worker - Google Developer Summit Istanbul (Dec’15 Turkey)
+* [![](icons/lab.png?raw=true)](http://bit.ly/offline-worker) 
+**Code-lab about Service Worker** - [Google Developer Summit Istanbul](https://events.withgoogle.com/developer-summit-istanbul/) 
+![](icons/date.png?raw=true) Dec’15 Turkey
 * ![](icons/talk.png?raw=true) Android TV with Intel Tools – Intel Roadshow Ankara (Dec’15 Turkey)
 * ![](icons/talk.png?raw=true)![](icons/international.png?raw=true) Updating mobile web pages! But why? - DevFest Constantine (Dec’15 Algeria)
 * ![](icons/talk.png?raw=true) Updating mobile web pages! But why? - DevFest Tekirdag (Dec’15 Turkey)
