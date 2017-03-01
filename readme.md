@@ -9,6 +9,10 @@ Here is the basic list for my public speakings, you can follow my all talks just
 You can classify easily my talks under these categories and reach content if available. 
 For example if you click `#presentation` or `#video` icon you will reach related content
 
+
+
+
+
 * ![](icons/talk.png?raw=true) #talks #presentation
 * ![](icons/lab.png?raw=true) #code-labs #hackathon
 * ![](icons/supervisor.png?raw=true) #mentor #wingman #judge #community
